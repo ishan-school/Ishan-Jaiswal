@@ -3,12 +3,12 @@ This Is The Temp Website.
 
 Few Of My Projects Are:-
 #TicTacToe-Game
-![TicTacToe-Game](https://tictactoe.iishanjaiswal.me)**https://tictactoe.iishanjaiswal.me**
+[TicTacToe-Game](https://tictactoe.iishanjaiswal.me). **https://tictactoe.iishanjaiswal.me**
 
 #Chess-Game
-![Chess-Game](https://chess.iishanjaiswal.me)**https://chess.iishanjaiswal.me**
+[Chess-Game](https://chess.iishanjaiswal.me). **https://chess.iishanjaiswal.me**
 
 #Sketch-Game
-![Sketch-Game](https://sketch.iishanjaiswal.me)**https://sketch.iishanjaiswal.me**
+[Sketch-Game](https://sketch.iishanjaiswal.me). **https://sketch.iishanjaiswal.me**
 
 These Are Few Of My Projects.
